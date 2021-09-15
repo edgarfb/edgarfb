@@ -1,4 +1,5 @@
-### Hi there 👋 It's [Edgar](https://www.edgarbritez.com/)!
+## Hi there 👋 It's [Edgar](https://www.edgarbritez.com/)!
+I'm a Self-taught Front End Developer in continuous development, on this days I'm focused on React JS.
 
 <br>
 <a href="https://www.edgarbritez.com/">
